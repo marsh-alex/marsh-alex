@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @marsh-alex I am a self taught developer looking to improve my skill and expand my knowledge.
+- 👀 I’m interested learning new languages and web technologies and making contributions to other projects and learning from experienced devs.
+- 🌱 I’m currently learning JavaScript and React
+- 💞️ I’m looking to collaborate on any and all projects no matter how small initial contributions may be!
+- 📫 I can be reached at alexjmarsh55@gmail.com or on discord @Disraeli#5726
